@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28bbe424-c070-4b89-a81f-74dd89e6547c" name="Changes" comment="Recursion class, Beginner's Guide, Chapter 6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="28bbe424-c070-4b89-a81f-74dd89e6547c" name="Changes" comment="Merging Oct 1">
+      <change afterPath="$PROJECT_DIR$/src/beginners_guide/chapter04/pages119_120/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginners_guide/chapter05/ArrayArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayArrays.executor": "Run",
     "Application.BoxDemo3.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.CompFuel.executor": "Run",
@@ -60,7 +62,7 @@
     "Application.PassOb.executor": "Run",
     "Application.Recursion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,13 +73,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OverloadCons2">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginners_guide.chapter05.listing5.BubbleSort" />
+  <component name="RunManager" selected="Application.Break">
+    <configuration name="ArrayArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginners_guide.chapter05.ArrayArrays" />
       <module name="open-source1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginners_guide.chapter05.listing5.*" />
+          <option name="PATTERN" value="beginners_guide.chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginners_guide.chapter05.listing2.MinMax" />
+    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginners_guide.chapter04.pages119_120.Break" />
       <module name="open-source1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="beginners_guide.chapter05.listing2.*" />
+          <option name="PATTERN" value="beginners_guide.chapter04.pages119_120.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Break" />
+        <item itemvalue="Application.ArrayArrays" />
         <item itemvalue="Application.OverloadCons2" />
         <item itemvalue="Application.PassOb" />
         <item itemvalue="Application.Overload" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.MinMax" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,8 @@
     <MESSAGE value="Beginner's Guide, Chapter 4, Pages 119-120" />
     <MESSAGE value="Complete Reference, Chapter 6, Page 126" />
     <MESSAGE value="Recursion class, Beginner's Guide, Chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursion class, Beginner's Guide, Chapter 6" />
+    <MESSAGE value="Merging Oct 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merging Oct 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
