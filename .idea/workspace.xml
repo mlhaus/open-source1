@@ -4,17 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28bbe424-c070-4b89-a81f-74dd89e6547c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="28bbe424-c070-4b89-a81f-74dd89e6547c" name="Changes" comment="Merging Oct 1">
+      <change afterPath="$PROJECT_DIR$/src/beginners_guide/chapter04/pages119_120/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginners_guide/chapter05/ArrayArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="marc-contribution3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mlhaus&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mlhaus/open-source1.git&quot;,
+    &quot;accountId&quot;: &quot;23a67d54-f60e-4c57-99eb-0d901e58a85f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -26,11 +51,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayArrays.executor": "Run",
+    "Application.BoxDemo3.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CompFuel.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MinMax.executor": "Run",
+    "Application.Overload.executor": "Run",
+    "Application.OverloadCons2.executor": "Run",
+    "Application.PassOb.executor": "Run",
+    "Application.Recursion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HARIN/OneDrive/Documents/_School/_JavaII/Demos/java2-demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,17 +73,79 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Break">
+    <configuration name="ArrayArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginners_guide.chapter05.ArrayArrays" />
       <module name="open-source1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginners_guide.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginners_guide.chapter04.pages119_120.Break" />
+      <module name="open-source1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beginners_guide.chapter04.pages119_120.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="complete_reference.chapter07.listing01.Overload" />
+      <module name="open-source1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="complete_reference.chapter07.listing01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadCons2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="complete_reference.chapter07.listing06.OverloadCons2" />
+      <module name="open-source1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="complete_reference.chapter07.listing06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassOb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="complete_reference.chapter07.listing05.PassOb" />
+      <module name="open-source1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="complete_reference.chapter07.listing05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Break" />
+        <item itemvalue="Application.ArrayArrays" />
+        <item itemvalue="Application.OverloadCons2" />
+        <item itemvalue="Application.PassOb" />
+        <item itemvalue="Application.Overload" />
       </list>
     </recent_temporary>
   </component>
@@ -70,14 +165,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726016972054</updated>
-      <workItem from="1726016973056" duration="208000" />
-      <workItem from="1727897107730" duration="28000" />
-      <workItem from="1727897560228" duration="506000" />
+      <workItem from="1726016973056" duration="645000" />
+      <workItem from="1726017759478" duration="3606000" />
+      <workItem from="1726613570917" duration="3062000" />
+      <workItem from="1727217900833" duration="857000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1726017347504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726017347504</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Beginner's Guide, Chapter 4, Pages 119-120">
+      <option name="closed" value="true" />
+      <created>1726018960205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726018960205</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Complete Reference, Chapter 6, Page 126">
+      <option name="closed" value="true" />
+      <created>1726020383539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726020383539</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Recursion class, Beginner's Guide, Chapter 6">
+      <option name="closed" value="true" />
+      <created>1726614508953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726614508953</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Beginner's Guide, Chapter 4, Pages 119-120" />
+    <MESSAGE value="Complete Reference, Chapter 6, Page 126" />
+    <MESSAGE value="Recursion class, Beginner's Guide, Chapter 6" />
+    <MESSAGE value="Merging Oct 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merging Oct 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
